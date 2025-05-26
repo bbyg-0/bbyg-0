@@ -39,7 +39,7 @@
 </p>
 <p align="center">
   <!-- Skillicons utama -->
-  <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,java,python,c,cpp,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp&theme=dark" />
   <br/><br/>
 
   <!-- Tambahan manual untuk Assembly, IDA, Debian -->
