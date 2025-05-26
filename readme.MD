@@ -38,12 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbyg-0&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=000000" />
-</p>
 
----
-
-## 🔗 API dan Tools yang Saya Gunakan
-<p>
   <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp,amd&theme=dark" />
 </p>
 
