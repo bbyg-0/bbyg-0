@@ -6,8 +6,8 @@
   Saya adalah seorang pengembang yang bersemangat dengan minat pada pengembangan perangkat lunak, keamanan siber, dan sistem terdistribusi.
   Saya suka membangun solusi sederhana untuk masalah kompleks.
 </p>
-<p align="center">
-<pre>
+
+<pre align="center">
 
 
  ▄▄▄▄    ▄▄▄       ▄▄▄▄    ▄▄▄         ▓██   ██▓ ▄▄▄        ▄████  ▄▄▄      
@@ -21,7 +21,7 @@
  ░            ░  ░ ░            ░  ░    ░ ░           ░  ░      ░       ░  ░
       ░                 ░               ░ ░                                 
 </pre>
-</p>
+
 ## 📊 Statistik GitHub Saya
 
 <p align="center">
