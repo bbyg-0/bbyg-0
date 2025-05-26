@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 Bahasa Pemrograman yang Sering Digunakan
+## 🧠 Bahasa Pemrograman dan Tools yang Sering Digunakan
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbyg-0&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=000000" />
