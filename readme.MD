@@ -44,8 +44,7 @@
 
 ## 🔗 API dan Tools yang Saya Gunakan
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp,assembly&theme=dark" />
-<img src="https://cdn.simpleicons.org/gnubash/6A9955" alt="assembly icon" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp,amd&theme=dark" />
 </p>
 
 
