@@ -6,14 +6,14 @@
   Saya adalah seorang pengembang yang bersemangat dengan minat pada pengembangan perangkat lunak, keamanan siber, dan sistem terdistribusi.
   Saya suka membangun solusi sederhana untuk masalah kompleks.
 </p>
-
+<p>
   ________              __                 
  /  _____/  ____  _____/  |_  ____ ______  
 /   \  ___ /  _ \/    \   __\/ __ \\____ \ 
 \    \_\  (  <_> )   |  \  | \  ___/|  |_> >
  \______  /\____/|___|  /__|  \___  >   __/ 
         \/            \/          \/|__|    
-
+</p>
 ## 📊 Statistik GitHub Saya
 
 <p align="center">
