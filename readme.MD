@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://github.com/bbyg-0">
+      <a href="https://github.com/bbyg-0" background-color="black">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbyg-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
       </a>
     </td>
