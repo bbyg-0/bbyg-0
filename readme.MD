@@ -21,11 +21,11 @@
 ## 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bbyg-0&show_icons=true&theme=tokyonight&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME_KAMU&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=00FF00&ring=00FF00&currStreakLabel=00FF00&fire=00FF00&sideLabels=00FF00&background=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bbyg-0&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=00FF00&ring=00FF00&currStreakLabel=00FF00&fire=00FF00&sideLabels=00FF00&background=000000" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🧠 Bahasa Pemrograman yang Sering Digunakan
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbyg-0&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=000000" />
 </p>
 
 ---
