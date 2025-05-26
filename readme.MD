@@ -45,12 +45,9 @@
 ## 🔗 API dan Tools yang Saya Gunakan
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,java,python,c,cpp,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp,assembly&theme=dark" />
 </p>
 
----
-
-> 📫 Hubungi saya di: [email@example.com](mailto:email@example.com)
 
 ---
 
