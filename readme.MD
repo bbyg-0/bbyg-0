@@ -1,34 +1,54 @@
-## Hi there 👋
+<!-- Tema hitam-hijau - gunakan dark mode friendly elements -->
 
-<!--
-**bbyg-0/bbyg-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#00ff00;">👨‍💻 Selamat datang di Profil GitHub Saya!</h1>
 
-Here are some ideas to get you started:
+<p align="center" style="color:#00ff00;">
+  Saya adalah seorang pengembang yang bersemangat dengan minat pada pengembangan perangkat lunak, keamanan siber, dan sistem terdistribusi.
+  Saya suka membangun solusi sederhana untuk masalah kompleks.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## My Stats
+---
+  ________              __                 
+ /  _____/  ____  _____/  |_  ____ ______  
+/   \  ___ /  _ \/    \   __\/ __ \\____ \ 
+\    \_\  (  <_> )   |  \  | \  ___/|  |_> >
+ \______  /\____/|___|  /__|  \___  >   __/ 
+        \/            \/          \/|__|    
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/bbyg-0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbyg-0&show_icons=true&locale=en&layout=compact" alt="Top Languages" background-color="black"/>
-      </a>
-    </td>
+---
 
-    <td>
-      <a href="https://github.com/bbyg-0">
-        <img src="https://github-readme-stats.vercel.app/api?username=bbyg-0&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME_KAMU&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=00FF00&ring=00FF00&currStreakLabel=00FF00&fire=00FF00&sideLabels=00FF00&background=000000" />
+</p>
+
+---
+
+## 🧠 Bahasa Pemrograman yang Sering Digunakan
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=000000" />
+</p>
+
+---
+
+## 🔗 API dan Tools yang Saya Gunakan
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,java,python,c,cpp,js,html,css&theme=dark" />
+</p>
+
+---
+
+> 📫 Hubungi saya di: [email@example.com](mailto:email@example.com)
+
+---
+
+🖤 Terima kasih telah mengunjungi profil saya! Silakan beri ⭐ pada proyek favoritmu di repo saya!
+
