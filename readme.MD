@@ -38,7 +38,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbyg-0&layout=compact&theme=tokyonight&title_color=00ff00&text_color=00ff00&bg_color=000000" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp&theme=dark" />
+  <!-- Skillicons utama -->
+  <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,java,python,c,cpp,js,html,css&theme=dark" />
+  <br/><br/>
+
+  <!-- Tambahan manual untuk Assembly, IDA, Debian -->
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-2b2b2b?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4z8DwHwMNgImBJUDAgAEAZ0wEC2N44tQAAAAASUVORK5CYII=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
 
 
