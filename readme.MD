@@ -7,16 +7,12 @@
   Saya suka membangun solusi sederhana untuk masalah kompleks.
 </p>
 
-
----
   ________              __                 
  /  _____/  ____  _____/  |_  ____ ______  
 /   \  ___ /  _ \/    \   __\/ __ \\____ \ 
 \    \_\  (  <_> )   |  \  | \  ___/|  |_> >
  \______  /\____/|___|  /__|  \___  >   __/ 
         \/            \/          \/|__|    
-
----
 
 ## 📊 Statistik GitHub Saya
 
