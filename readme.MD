@@ -43,10 +43,10 @@
 ---
 
 ## 🔗 API dan Tools yang Saya Gunakan
-
+![Assembly](https://img.shields.io/badge/Assembly-778899?style=for-the-badge&logo=gnubash&logoColor=white)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,c,cpp,assembly&theme=dark" />
-![Assembly](https://img.shields.io/badge/Assembly-778899?style=for-the-badge&logo=gnubash&logoColor=white)
+
 </p>
 
 
